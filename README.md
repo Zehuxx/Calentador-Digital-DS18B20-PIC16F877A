@@ -1,5 +1,5 @@
 # Calentador-Digital-termometro-DS18B20-PIC16F877A
-Calentador digital de agua con termómetro DS18B20 usando PIC16F877A, desarrollado en Proteus adjunto código asm.
+Calentador digital de agua con termómetro DS18B20 usando PIC16F877A, desarrollado en Proteus 8.6.
 
 ## Resumen
 Proyecto realizado para la clase de microcontroladores y microprocesadores de la carrera de ingeniería en sistemas de la Universidad Nacional Autónoma de Honduras.
@@ -28,6 +28,7 @@ Proteus V. 8.6
 - Denis Adonis Henríquez Maradiaga UNAH, Tegucigalpa Honduras, denis.henriquez@unah.hn
 
 ## Anexos
-
-![Aquí la descripción de la imagen por si no carga]
-(https://raw.githubusercontent.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/master/Imagenes/Diagrama en proteus.bmp)
+<p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imagenes/Diagrama%20en%20proteus.bmp?raw=true" alt="Diagrama en proteus"></p>
+<p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imágenes/IMG-20191010-WA0007.jpeg?raw=true" alt="Imagen1"></p>
+<p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imágenes/IMG-20191010-WA0012.jpeg" alt="Imagen2" ></p>
+<p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imágenes/IMG-20191010-WA0023.jpeg?raw=true" alt="Imagen3"></p>
