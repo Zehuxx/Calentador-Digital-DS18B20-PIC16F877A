@@ -28,7 +28,7 @@ Proteus V. 8.6
 - Denis Adonis Henríquez Maradiaga UNAH, Tegucigalpa Honduras, denis.henriquez@unah.hn
 
 ## Anexos
-<p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imagenes/Diagrama%20en%20proteus.bmp?raw=true" alt="Diagrama en proteus"></p>
+<p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imágenes/Diagrama en proteus.bmp?raw=true" alt="Diagrama en proteus"></p>
 <p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imágenes/IMG-20191010-WA0007.jpeg?raw=true" alt="Imagen1"></p>
 <p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imágenes/IMG-20191010-WA0012.jpeg" alt="Imagen2" ></p>
 <p align="center"><img src="https://github.com/Zehuxx/Calentador-Digital-termometro-DS18B20-PIC16F877A/blob/master/Imágenes/IMG-20191010-WA0023.jpeg?raw=true" alt="Imagen3"></p>
