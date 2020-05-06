@@ -7,8 +7,7 @@ Septiembre 2019
 
 
 ## Consideraciones
-El proyecto utiliza en sensor DS18B20 el cual al momento del desarrollo no se encontró más que su hoja de datos con algunos ejemplos de su utilización en código C y en nuestro caso se desarrolló en código asm, por esto nos tuvimos que guiar de un ejemplo que utiliza un sensor DS1820.
-Proteus v. 8.6.
+El proyecto utiliza un sensor DS18B20 el cual al momento del desarrollo no se encontró más que su hoja de datos con algunos ejemplos de su utilización en código C y en nuestro caso se desarrolló en código asm, por esto nos tuvimos que guiar de un ejemplo que utiliza un sensor DS1820.
 
 ## Dispositivos Necesarios:
 - PIC16F877A
